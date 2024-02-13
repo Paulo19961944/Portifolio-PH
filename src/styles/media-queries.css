@@ -47,13 +47,13 @@
     }
 
     section button{
-        width: 200px;
+        width: 250px;
     }
 }
 
 @media screen and (max-width:425px) {
     section button{
-        width: 180px;
+        width: 220px;
     }
 }
 
