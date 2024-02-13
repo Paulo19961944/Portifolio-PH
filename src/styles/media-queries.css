@@ -10,11 +10,11 @@
 
 @media screen and (max-width:768px) {
     h1{
-        font-size: 20px;
+        font-size: 22px;
     }
 
     p,a, button{
-        font-size: 12px;
+        font-size: 14px;
     }
 }
 
@@ -35,11 +35,11 @@
     }
 
     h1{
-        font-size: 18px;
+        font-size: 20px;
     }
 
     p, a, button{
-        font-size: 10px;
+        font-size: 12px;
     }
 
     main section.person-image-content{
@@ -52,14 +52,6 @@
 }
 
 @media screen and (max-width:425px) {
-    h1{
-        font-size: 18px;
-    }
-
-    p, a, button{
-        font-size: 9px;
-    }
-
     section button{
         width: 180px;
     }
