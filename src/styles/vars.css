@@ -1,0 +1,13 @@
+:root{
+    --bg-color:#fafafa;
+    --color-content: #000;
+    --bg-header-footer-color: #050505;
+    --bg-nav-hover: #fafafa;
+    --color-nav-hover: #000;
+    --header-footer-color-font: #fafafa;
+    --color-font-content: #000;
+    --links-color: #00f;
+    --bg-button-color: #2768c9;
+    --button-color: #fafafa;
+    --border-button: #333;
+}
