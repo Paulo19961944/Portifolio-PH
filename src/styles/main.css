@@ -72,6 +72,15 @@ main section.person-content {
     width: 60%;
 }
 
+img.whatsapp-image{
+    border: none;
+    position: fixed;
+    bottom: -30px;
+    right: -30px;
+    width: 12%;
+    animation: pulse 1s ease-in-out infinite;
+}
+
 img{
     border: 2px solid #000;
     border-radius: 50%;
@@ -166,4 +175,20 @@ footer{
     background-color: var(--bg-header-footer-color);
     color: var(--header-footer-color-font);
     padding: 48px 0;
+}
+
+/*Animação*/
+
+@keyframes pulse{
+    0%{
+        transform: scale(1.00);
+    }
+
+    50%{
+        transform: scale(1.1);
+    }
+
+    100%{
+        transform: scale(1.00);
+    }
 }

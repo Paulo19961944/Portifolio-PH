@@ -13,12 +13,19 @@
         font-size: 22px;
     }
 
+    img.whatsapp-image{
+        width: 16%;
+    }
+
     p,a, button{
         font-size: 14px;
     }
 }
 
 @media screen and (max-width:582px) {
+    img.whatsapp-image{
+        width: 22%;
+    }
     .navbar-content{
         display: flex;
         flex-direction: column;
@@ -54,6 +61,10 @@
 @media screen and (max-width:425px) {
     section button{
         width: 220px;
+    }
+
+    img.whatsapp-image{
+        width: 25%;
     }
 }
 
