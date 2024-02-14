@@ -14,7 +14,7 @@
     }
 
     img.whatsapp-image{
-        width: 16%;
+        width: 20%;
     }
 
     p,a, button{
@@ -24,7 +24,7 @@
 
 @media screen and (max-width:582px) {
     img.whatsapp-image{
-        width: 22%;
+        width: 28%;
     }
     .navbar-content{
         display: flex;
@@ -64,7 +64,7 @@
     }
 
     img.whatsapp-image{
-        width: 25%;
+        width: 30%;
     }
 }
 
